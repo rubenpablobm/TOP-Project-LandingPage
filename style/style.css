@@ -97,7 +97,7 @@ img{
     font-weight: bold;
 }
 
-.hero button{
+.hero .contact{
     background: #3882f6;
     color: #e5e7eb;
     font-weight: bold;
@@ -180,4 +180,42 @@ img{
     font-size: 24px;
     align-self: end;
     margin-top: 20px;
+}
+
+/* ------------ CONTACT-ME ------------------------ */
+.contact-me .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 100px;
+}
+
+.contact-me .content{
+    display: flex;
+    align-items: center;
+    background: #3882F6;
+    padding: 30px 80px;
+    border-radius: 10px;
+}
+
+.contact-me .button{
+    margin-left: 80px;
+}
+
+.contact-me h4{
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.contact-me p{
+    color: #e5e7eb;
+}
+
+.contact-me .contact{
+    background: #3882f6;
+    color: #e5e7eb;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid #e5e7eb;
+    padding: 6px 20px;
 }
