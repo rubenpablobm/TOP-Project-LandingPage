@@ -219,3 +219,14 @@ img{
     border: 2px solid #e5e7eb;
     padding: 6px 20px;
 }
+
+/* ------------ FOOTER ------------------------ */
+.footer .container{
+    display: flex;
+    justify-content: center;
+    background: #1F2937;
+    color: #E5E7EB;
+    height: 100%;
+    padding: 30px 0px;
+
+}
