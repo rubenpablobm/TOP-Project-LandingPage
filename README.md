@@ -1,6 +1,9 @@
 # TOP-Project-LandingPage
 My solution to the Landing Page project from the Foundations chapter of The Odin Project.
 
+### Live Preview:
+https://rubenpablobm.github.io/TOP-Project-LandingPage/
+
 ### FONT USED:
 -Poppins
 
