@@ -114,6 +114,7 @@ img{
 .skills .container{
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 
 .skills h2{
@@ -121,7 +122,7 @@ img{
     font-size: 36px;
     font-weight: extra-bold;
     color: #1f2937;
-    margin: 40px 0px;
+    margin-bottom: 10px;
 }
 
 .skills .boxes{
@@ -166,7 +167,7 @@ img{
     display: flex;
     flex-direction: column;
     background: #e5e7eb;
-    padding: 50px 100px
+    padding: 50px 100px;
 }
 
 .quote .phrase{
