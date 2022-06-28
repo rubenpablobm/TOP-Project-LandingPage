@@ -110,7 +110,7 @@ img{
     max-width: 500px;
 }
 
-/* ------------ HERO ------------------------ */
+/* ------------ SKILLS ------------------------ */
 .skills .container{
     display: flex;
     flex-direction: column;
@@ -159,4 +159,24 @@ img{
     font-size: 15px;
     font-weight: extra-light;
     text-align: center;
+}
+
+/* ------------ QUOTE ------------------------ */
+.quote .container{
+    display: flex;
+    flex-direction: column;
+    background: #e5e7eb;
+    padding: 50px 100px
+}
+
+.quote .phrase{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote .credit{
+    font-size: 24px;
+    align-self: end;
+    margin-top: 20px;
 }
