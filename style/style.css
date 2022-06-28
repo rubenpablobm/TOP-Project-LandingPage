@@ -112,10 +112,12 @@ img{
     border-radius: 5px;
     border: none;
     padding: 6px 20px;
+    margin: 20px 0px;
 }
 
-.navbar img{
-    max-width: 500px;
+.hero img{
+    max-width: 400px;
+    border-radius: 10px;
 }
 
 /* ------------ SKILLS ------------------------ */
