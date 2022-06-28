@@ -23,7 +23,7 @@ body{
 }
 
 img{
-    max-width: 300px;
+    max-width: 500px;
 }
 
 /* ------------ NAVBAR ------------------------ */
@@ -65,8 +65,18 @@ img{
     background: #1f2937;
     max-width: 1100px;
     display: flex;
+    justify-content: center;
     height: 100%;
     padding: 100px 30px;
+    flex-wrap: wrap;
+}
+
+.hero .info{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    max-width: 500px;
+    margin-right: auto;
 }
 
 .hero h1{
@@ -78,6 +88,7 @@ img{
 .hero p{
     font-size: 18px;
     color: #e5e7eb;
+    margin: auto 0px;
 }
 
 .hero a{
@@ -93,4 +104,8 @@ img{
     border-radius: 5px;
     border: none;
     padding: 6px 20px;
+}
+
+.navbar img{
+    max-width: 500px;
 }
