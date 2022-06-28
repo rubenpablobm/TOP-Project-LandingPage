@@ -58,6 +58,11 @@ img{
     margin-left: 20px;
 }
 
+/* changes color of  */
+.navbar a:hover{
+    color:#3882f6;
+}
+
 /* ------------ HERO ------------------------ */
 
 .hero{
